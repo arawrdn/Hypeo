@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom colors for Hypeo */
+body {
+  background-color: #000000;
+  color: #FACC15; /* yellow-400 */
+}
